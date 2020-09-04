@@ -6,6 +6,10 @@ This is a notesbook that looks at Machine Learning youtuber, Daniel Bourke's cha
 - setAPIkey.py is a short code I created to set the API key as an environment variable.
 ## setAPIkey.py
 ```python
+#!python3
+# setAPIkey.py - Sets API key as an environment variable
+# IMPORTANT: this must not be shared and is kept in .gitignore 
+
 import os
 
 os.environ['YT_API'] = '' # ENTER API KEY HERE
