@@ -1,8 +1,16 @@
 # MrBouke Youtube Statistics
 ## About
 This is a notesbook that looks at Machine Learning youtuber, Daniel Bourke's channel. The aim is to analyse the views of his videos about machine learning compared to fitness to see what is most popular.
-## What you need to do
-- various libraries to install... coming soon
+## Required libraries
+- pandas 1.1
+- numpy 1.19.1
+- matplotlib 3.2.2
+- seaborn 0.10.2
+- requests 2.24.0
+- os
+- math
+- re 2.2.1
+- datetime
 - setAPIkey.py is a short code I created to set the API key as an environment variable.
 ## setAPIkey.py
 ```python
