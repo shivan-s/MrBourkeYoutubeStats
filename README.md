@@ -11,6 +11,9 @@ This is a notesbook that looks at Machine Learning youtuber, Daniel Bourke's cha
 - math
 - re 2.2.1
 - datetime
+- isodate
+- googleapiclient
+- sklearn
 - setAPIkey.py is a short code I created to set the API key as an environment variable.
 ## setAPIkey.py
 ```python
